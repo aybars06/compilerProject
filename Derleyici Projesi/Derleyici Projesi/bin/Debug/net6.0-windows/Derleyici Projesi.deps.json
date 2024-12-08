@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Derleyici Projesi/1.0.0": {
+        "runtime": {
+          "Derleyici Projesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Derleyici Projesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

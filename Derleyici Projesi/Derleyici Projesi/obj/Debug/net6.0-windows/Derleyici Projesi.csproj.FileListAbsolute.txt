@@ -1,0 +1,16 @@
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\bin\Debug\net6.0-windows\Derleyici Projesi.exe
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\bin\Debug\net6.0-windows\Derleyici Projesi.deps.json
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\bin\Debug\net6.0-windows\Derleyici Projesi.runtimeconfig.json
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\bin\Debug\net6.0-windows\Derleyici Projesi.dll
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\bin\Debug\net6.0-windows\Derleyici Projesi.pdb
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici_Projesi.Form1.resources
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.csproj.GenerateResource.cache
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.AssemblyInfoInputs.cache
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.AssemblyInfo.cs
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.dll
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\refint\Derleyici Projesi.dll
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.pdb
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\Derleyici Projesi.genruntimeconfig.cache
+C:\Users\Aybars\source\repos\Derleyici Projesi\Derleyici Projesi\obj\Debug\net6.0-windows\ref\Derleyici Projesi.dll
